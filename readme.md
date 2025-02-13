@@ -3,7 +3,7 @@
 ## Overview
 Langraph Supervisor is an advanced framework designed to manage and supervise a team of agents using Ollama models. This project represents a significant improvement in the way multi-agent systems are deployed and managed, providing enhanced capabilities and responsibilities for the supervising agent.
 
-**Original Repository:** [Langraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor)
+**Langchain Official Repository:** [Langraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor)
 
 ## Features(in this build):
 - **Ollama Models Integration**: Utilize Ollama models for running agents locally, offering a robust alternative to OpenAI models.
